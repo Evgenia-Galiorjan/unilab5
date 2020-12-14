@@ -214,8 +214,9 @@ h4{
 h6{
 	position: absolute;
 	bottom: 10px;
-    right: 10px;
-    color:#3D58A6;
+        right: 10px;
+        color:#3D58A6;
+	font-size:14px;
 }
 .last{
 	content: " ";
