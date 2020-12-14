@@ -112,7 +112,7 @@ body{
 	font-size: 24px;
 	color: #fff;
 }
-.paragraph{
+/* .paragraph{
 	font-family: 'Myriad Pro Regular';
 	color: black;
 	font-size: 16px;
@@ -122,7 +122,7 @@ body{
 	top:50%;
 	left:50%;
 	transform: translate(-50%,-50%);
-}
+} ეს პარაგრაფი აღარ გვჭირდება, ჩავსი ვიდეო*/
 /*third section*/
 
 .third-section{
@@ -199,7 +199,7 @@ body{
 .last-image{
 	margin: 15px 65px 35px 40px;
 }
-h3{
+h4{
 	margin: 15px 0 0 15px;
 	color: #3D58A6;
 	font-size: 22px;
