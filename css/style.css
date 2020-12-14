@@ -71,7 +71,7 @@ body{
 	color: #fff;
 	z-index: 10;
 }
-.inimg{
+.inimage{
 	position: absolute;
 	left: 30px;
 	bottom: 30px;
@@ -196,7 +196,7 @@ body{
     text-transform: uppercase;
     margin-top:30px;
 }
-.finger{
+.last-image{
 	margin: 15px 65px 35px 40px;
 }
 h3{
@@ -204,7 +204,7 @@ h3{
 	color: #3D58A6;
 	font-size: 22px;
 }
-.finger-p{
+.image-p{
 	float: right;
 	margin-top: 28px;
 	font-size: 20px;
