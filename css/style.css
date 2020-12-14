@@ -35,10 +35,10 @@ body{
 .linavigation{
 	font-family: 'Roboto-Regular';
 	margin-left: 35px;
+	color:#3D58A6;
+	font-size:24px;
 }
-.home{
-    color:blue;
-}
+
 .logos{
 	float: right;
 }
@@ -89,7 +89,7 @@ body{
 	background-color: #363E97;
 	border: solid 1px #707070;
 }
-.white-box{
+.first-box{
 	background-color: #fff;
 	width: 570px;
 	height: 320px;
@@ -159,7 +159,7 @@ body{
 	top: 0;
 	left:0;
 }
-.down-p{
+.text45{
 	font-family: 'Roboto-Regular';
 	position: absolute;
 	bottom: 25px;
@@ -231,7 +231,4 @@ h6{
 #byme{
 	padding-top: 0;
 	float: right;
-}
-.read{
-    color:blue
 }
