@@ -82,3 +82,43 @@ body{
 	color: #fff;
 	font-size: 30px;
 }
+/*second section*/
+
+.second-section{
+	padding-bottom: 90px;
+	background-color: #363E97;
+	border: solid 1px #707070;
+}
+.white-box{
+	background-color: #fff;
+	width: 570px;
+	height: 320px;
+	display: inline-block;
+	position: relative;
+}
+.box2{
+	margin-left: 25px;
+}
+.title{
+	font-family: 'Roboto-Regular';
+	font-size: 24px;
+	color: #fff;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+}
+.videos{
+	font-family: 'Roboto-Regular';
+	font-size: 24px;
+	color: #fff;
+}
+.paragraph{
+	font-family: 'Myriad Pro Regular';
+	color: black;
+	font-size: 16px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
